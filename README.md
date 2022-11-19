@@ -22,5 +22,5 @@ Basically involves 5 steps:
 - The Twitter API lets you access and interact with public Twitter data.Use the Twitter Streaming API to connect to Twitter data streams and gather tweets containing keywords, brand mentions, and hashtags, or collect tweets from specific users.
 - Tweepyis an easy-to-use Python library for accessing the Twitter API. I used Tweepy for accessing the Twitter API. You need to have a Twitter developer account and sample codes to do this analysis.
 
-## Using twitter dataset
-- the twitter datasetis avaliable on kaggle
+## :page_facing_up: Using twitter dataset
+- Download the twitter dataset which is avaliable on kaggle. It contains all the tweets based on a paticular entity.
